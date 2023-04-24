@@ -6,13 +6,13 @@ Esse programa em C permite que o usuário insira valores pelo teclado e calcula 
 Para usar esse programa, basta seguir os seguintes passos:
 
 • Clone este repositório em sua máquina;
-
+<br>
 • Compile o arquivo main.c usando um compilador de C;
-
+<br>
 • Execute o programa;
-
+<br>
 • Digite até 20 números e pressione enter após cada um deles;
-
+<br>
 • Ao final, o programa irá exibir a média dos valores inseridos.
 
 ## Exemplo de uso
